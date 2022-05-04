@@ -1,0 +1,36 @@
+{
+  "TaskData": [
+    {
+      "TaskName": "First Office",
+      "TaskDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore ",
+      "ClientCall": true,
+      "CompletedTask": false,
+      "Discusstion": false,
+      "id": 1
+    },
+    {
+      "TaskName": "Login in to protal",
+      "TaskDetails": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+      "ClientCall": false,
+      "CompletedTask": true,
+      "Discusstion": true,
+      "id": 2
+    },
+    {
+      "TaskName": "this is my first Task",
+      "TaskDetails": "example",
+      "ClientCall": false,
+      "CompletedTask": false,
+      "Discusstion": true,
+      "id": 3
+    },
+    {
+      "TaskName": "sassasasasasasasas",
+      "TaskDetails": "dsasa",
+      "ClientCall": true,
+      "CompletedTask": true,
+      "Discusstion": false,
+      "id": 4
+    }
+  ]
+}
